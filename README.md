@@ -34,7 +34,7 @@ vercel --prod   # publica em produção
 Depois de publicado: **Project → Settings → Domains → Add** e aponte seu domínio (ex.: `promo.mestredoscachos.com`).
 
 ## Editar depois
-Abra o `index.html` em qualquer editor. O texto está tudo em português dentro do HTML. Para trocar uma imagem, procure por `src="data:image/jpeg;base64,...` — cada `<img>` corresponde a uma foto (hero, antes/depois e produto).
+Abra o `index.html` em qualquer editor. O texto da página está em inglês dentro do HTML. Para trocar uma imagem, procure por `src="data:image/jpeg;base64,...` — cada `<img>` corresponde a uma foto (hero, antes/depois e produto).
 
 Os botões de compra apontam para:
-`https://mestredoscachos.com/produtos/kit-soltura-magia-dos-cachos-mestre-dos-cachos-oficial/`
+`https://mestredoscachos.com/us/buy/1584195038-1`
